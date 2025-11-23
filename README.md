@@ -21,8 +21,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Crafting+Smooth+UI+Experiences" />
 </p>
 
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Ak-AhmedFathi&style=flat-square&color=blue)
 
 </div>
 
