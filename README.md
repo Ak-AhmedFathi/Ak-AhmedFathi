@@ -106,8 +106,9 @@ Fully-featured e-commerce platform built with:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://readme-git-main-ahmedfathiaf24-4746s-projects.vercel.app/api?username=Ak-AhmedFathi&show_icons=true&theme=radical" width="48%">
-<img src="https://readme-git-main-ahmedfathiaf24-4746s-projects.vercel.app/api/top-langs/?username=Ak-AhmedFathi&layout=compact&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Ak-AhmedFathi&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-AhmedFathi&layout=compact&theme=radical" width="48%">
+
 </div>
 
 ---
