@@ -13,7 +13,7 @@
 ✨ Creating Fast · Smooth · Modern Web Experiences ✨
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://ahmedfathi.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fathi-in/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahmedfathii/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ak-AhmedFathi)
 [![Download My CV](https://img.shields.io/badge/-Resume-yellow?style=for-the-badge&logo=web&logoColor=white)](./Ahmed-Fathi2.pdf)
 
