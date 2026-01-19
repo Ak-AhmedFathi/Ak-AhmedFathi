@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=web&logoColor=white)](https://ahmedfathi.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahmedfathii/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ak-AhmedFathi)
-[![Download My CV](https://img.shields.io/badge/-Resume-yellow?style=for-the-badge&logo=web&logoColor=white)](./Ahmed-Fathi2.pdf)
+[![Download My CV](https://img.shields.io/badge/-Resume-yellow?style=for-the-badge&logo=web&logoColor=white)](./AhmedFathi-Resume.pdf)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Crafting+Smooth+UI+Experiences" />
