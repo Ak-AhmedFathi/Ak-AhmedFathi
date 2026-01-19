@@ -127,7 +127,7 @@ Fully-featured e-commerce platform built with:
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 - Master advanced **Next.js patterns**
 - Build real-world SaaS apps  
 - Improve frontend system design  
@@ -136,9 +136,9 @@ Fully-featured e-commerce platform built with:
 ---
 
 ## 📬 Contact Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-fathi-in/  
 - 🌐 **Portfolio:** https://ahmedfathi.com  
 - 📧 **Email:** info@ahmedfathi.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aahmedfathii/  
 
 ---
 
